@@ -1,0 +1,11 @@
+# Ignore file with .yaml extension
+*.yaml
+*.html
+*.css
+
+# Ignore dir
+Car Sharing/Companies
+Car Sharing/Initialization
+Car Sharing/Relationship
+Car Sharing/Welcome, customer
+
